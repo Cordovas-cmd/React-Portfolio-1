@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio-1/static/css/main.0625bd56.css",
-    "main.js": "/React-Portfolio-1/static/js/main.5a5e23ba.js",
+    "main.js": "/React-Portfolio-1/static/js/main.71458763.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio-1/static/js/787.a2cb61a6.chunk.js",
     "static/media/runbuddy.jpg": "/React-Portfolio-1/static/media/runbuddy.bfa545210459da300644.jpg",
     "static/media/hero-image.jpg": "/React-Portfolio-1/static/media/hero-image.68a63b13c5ef6554f288.jpg",
@@ -12,11 +12,11 @@
     "static/media/Resume - Eric Spencer.docx": "/React-Portfolio-1/static/media/Resume - Eric Spencer.57ae0a4c6ecfd7f0e52b.docx",
     "index.html": "/React-Portfolio-1/index.html",
     "main.0625bd56.css.map": "/React-Portfolio-1/static/css/main.0625bd56.css.map",
-    "main.5a5e23ba.js.map": "/React-Portfolio-1/static/js/main.5a5e23ba.js.map",
+    "main.71458763.js.map": "/React-Portfolio-1/static/js/main.71458763.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio-1/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0625bd56.css",
-    "static/js/main.5a5e23ba.js"
+    "static/js/main.71458763.js"
   ]
 }
