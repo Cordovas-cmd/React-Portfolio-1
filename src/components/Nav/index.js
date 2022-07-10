@@ -24,7 +24,7 @@ export default function Nav({ currentPage, handlePageChange }) {
                   </li>
                   <li className='nav-item'>
                      <Link 
-                        to='/about'
+                        to='/React-Portfolio-1/about'
                         onClick={() => handlePageChange('About')}
                         className={currentPage === 'About' ? 'nav-active nav-link' : 'nav-link'}
                      >
@@ -33,7 +33,7 @@ export default function Nav({ currentPage, handlePageChange }) {
                   </li>
                   <li className='nav-item'>
                      <Link 
-                        to='/contact'
+                        to='/React-Portfolio-1/contact'
                         onClick={() => handlePageChange('Contact')}
                         className={currentPage === 'Contact' ? 'nav-active nav-link' : 'nav-link'}
                      >
@@ -42,7 +42,7 @@ export default function Nav({ currentPage, handlePageChange }) {
                   </li>
                   <li className='nav-item'>
                      <Link 
-                        to='/resume'
+                        to='/React-Portfolio-1/resume'
                         onClick={() => handlePageChange('Resume')}
                         className={currentPage === 'Resume' ? 'nav-active nav-link' : 'nav-link'}
                      >
