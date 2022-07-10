@@ -14,9 +14,10 @@ function App() {
   return (
     <div className='padding-bottom'>
       <Router>
-        <Header />            
+        <Header />   
+        
         <Routes>
-          <Route path='/' element={<Home />} />
+          <Route path='/React-Portfolio/' element={<Home />} />
           <Route path='/about' element={<About />} />
           <Route path='/contact' element={<Contact />} />
           <Route path='/resume' element={<Resume />} />
