@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.25f05a6f.css",
-    "main.js": "/React-Portfolio/static/js/main.3b72d24a.js",
-    "static/js/787.b6ed2990.chunk.js": "/React-Portfolio/static/js/787.b6ed2990.chunk.js",
-    "static/media/runbuddy.jpg": "/React-Portfolio/static/media/runbuddy.bfa545210459da300644.jpg",
-    "static/media/hero-image.jpg": "/React-Portfolio/static/media/hero-image.68a63b13c5ef6554f288.jpg",
-    "static/media/notetaker.jpg": "/React-Portfolio/static/media/notetaker.5c3625b446000022a2ee.jpg",
-    "static/media/zookeepr.jpg": "/React-Portfolio/static/media/zookeepr.077a0788164800e435f3.jpg",
-    "static/media/photoport.jpg": "/React-Portfolio/static/media/photoport.85f92c29f18c2a566d56.jpg",
-    "static/media/pizzahunt.jpg": "/React-Portfolio/static/media/pizzahunt.9b99a707a75e25d167cb.jpg",
-    "static/media/Resume - Eric Spencer.docx": "/React-Portfolio/static/media/Resume - Eric Spencer.57ae0a4c6ecfd7f0e52b.docx",
-    "index.html": "/React-Portfolio/index.html",
-    "main.25f05a6f.css.map": "/React-Portfolio/static/css/main.25f05a6f.css.map",
-    "main.3b72d24a.js.map": "/React-Portfolio/static/js/main.3b72d24a.js.map",
-    "787.b6ed2990.chunk.js.map": "/React-Portfolio/static/js/787.b6ed2990.chunk.js.map"
+    "main.css": "/React-Portfolio-1/static/css/main.0625bd56.css",
+    "main.js": "/React-Portfolio-1/static/js/main.5a5e23ba.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio-1/static/js/787.a2cb61a6.chunk.js",
+    "static/media/runbuddy.jpg": "/React-Portfolio-1/static/media/runbuddy.bfa545210459da300644.jpg",
+    "static/media/hero-image.jpg": "/React-Portfolio-1/static/media/hero-image.68a63b13c5ef6554f288.jpg",
+    "static/media/notetaker.jpg": "/React-Portfolio-1/static/media/notetaker.5c3625b446000022a2ee.jpg",
+    "static/media/zookeepr.jpg": "/React-Portfolio-1/static/media/zookeepr.077a0788164800e435f3.jpg",
+    "static/media/photoport.jpg": "/React-Portfolio-1/static/media/photoport.85f92c29f18c2a566d56.jpg",
+    "static/media/pizzahunt.jpg": "/React-Portfolio-1/static/media/pizzahunt.9b99a707a75e25d167cb.jpg",
+    "static/media/Resume - Eric Spencer.docx": "/React-Portfolio-1/static/media/Resume - Eric Spencer.57ae0a4c6ecfd7f0e52b.docx",
+    "index.html": "/React-Portfolio-1/index.html",
+    "main.0625bd56.css.map": "/React-Portfolio-1/static/css/main.0625bd56.css.map",
+    "main.5a5e23ba.js.map": "/React-Portfolio-1/static/js/main.5a5e23ba.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio-1/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25f05a6f.css",
-    "static/js/main.3b72d24a.js"
+    "static/css/main.0625bd56.css",
+    "static/js/main.5a5e23ba.js"
   ]
 }
