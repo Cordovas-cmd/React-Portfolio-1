@@ -15,7 +15,7 @@ export default function Nav({ currentPage, handlePageChange }) {
 
                   <li className='nav-item'>
                      <Link 
-                        to='/React-Portfolio/'
+                        to='/React-Portfolio-1/'
                         onClick={() => handlePageChange('Home')}
                         className={currentPage === 'Home' ? 'nav-active nav-link' : 'nav-link'}
                      >
